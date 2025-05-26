@@ -33,28 +33,29 @@ Returns true if the given address has already voted on that proposal.
 🚀 executeProposal(uint proposalId)
 Executes the proposal once the voting period has ended. Prevents re-execution.
 
-🧪 HOW TO DEPLOY & TEST IN REMIX
-Open Remix IDE at https://remix.ethereum.org
+<h1>🧪 HOW TO DEPLOY & TEST IN REMIX</h1> <br>
+1. Open Remix IDE at https://remix.ethereum.org
 
-Create a new file called DecentralizedVoting.sol
+2. Create a new file called DecentralizedVoting.sol
 
-Paste the smart contract code into the file
+3. Paste the smart contract code into the file
 
-Compile it using Solidity version ^0.8.0
+4. Compile it using Solidity version ^0.8.0
 
-Go to the "Deploy & Run" tab and choose an environment (JavaScript VM or MetaMask)
+5. Go to the "Deploy & Run" tab and choose an environment (JavaScript VM or MetaMask)
 
-Click Deploy
+6. Click Deploy
 
-Use the following sample interactions:
+7. Use the following sample interactions:
 
-createProposal("Ban Pineapple Pizza", 3)
+         createProposal("Ban Pineapple Pizza", 3)
 
-vote(1) from multiple wallet addresses
+         vote(1) from multiple wallet addresses
 
-getProposal(1) to view live vote count
+         getProposal(1) to view live vote count
 
-executeProposal(1) after the deadline to finalize the proposal
+         executeProposal(1) after the deadline to finalize the proposal
+
 
 <h1>📌 USE CASES</h1> <br>
 🏛️ DAO and decentralized governance
