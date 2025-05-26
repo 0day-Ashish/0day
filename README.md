@@ -1,7 +1,7 @@
-🎯 PROJECT TITLE: DECENTRALIZED VOTING SMART CONTRACT
+<h1>🎯 PROJECT TITLE:DECENTRALIZED VOTING SMART CONTRACT </h1> <br>
 A fully on-chain decentralized voting system that enables users to create proposals, vote once using their wallet addresses, and execute proposals after a deadline. Designed for DAOs, community decisions, or collaborative governance. Transparent, tamper-proof, and simple to use.
 
-📝 DESCRIPTION
+<h1> 📝 DESCRIPTION </h1>
 This smart contract lets users create proposals with a title and duration. Other users can vote once per proposal within the allowed timeframe. The voting results are visible on-chain, and after the deadline, the proposal can be executed. The system ensures a fair one-vote-per-user mechanism using wallet addresses.
 
 ✨ FEATURES
