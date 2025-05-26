@@ -1,10 +1,10 @@
-<h1>🎯 PROJECT TITLE:DECENTRALIZED VOTING SMART CONTRACT </h1> <br>
+<h1>🎯 PROJECT TITLE: DECENTRALIZED VOTING SMART CONTRACT </h1> <br>
 A fully on-chain decentralized voting system that enables users to create proposals, vote once using their wallet addresses, and execute proposals after a deadline. Designed for DAOs, community decisions, or collaborative governance. Transparent, tamper-proof, and simple to use.
 
-<h1> 📝 DESCRIPTION </h1>
+<h1> 📝 DESCRIPTION </h1> <br>
 This smart contract lets users create proposals with a title and duration. Other users can vote once per proposal within the allowed timeframe. The voting results are visible on-chain, and after the deadline, the proposal can be executed. The system ensures a fair one-vote-per-user mechanism using wallet addresses.
 
-✨ FEATURES
+<h1> ✨ FEATURES </h1> <br>
 🧾 Create proposals with descriptions and expiration times
 
 🗳️ One vote per wallet per proposal
@@ -17,7 +17,7 @@ This smart contract lets users create proposals with a title and duration. Other
 
 ✅ Proposal execution after deadline
 
-⚙️ SMART CONTRACT FUNCTIONS
+<h1>⚙️ SMART CONTRACT FUNCTIONS</h1> <br>
 🆕 createProposal(string description, uint durationInMinutes)
 Creates a new proposal with a user-defined duration (in minutes).
 
@@ -56,7 +56,7 @@ getProposal(1) to view live vote count
 
 executeProposal(1) after the deadline to finalize the proposal
 
-📌 USE CASES
+<h1>📌 USE CASES</h1> <br>
 🏛️ DAO and decentralized governance
 
 🧠 Group or community decision-making
@@ -65,10 +65,10 @@ executeProposal(1) after the deadline to finalize the proposal
 
 🔐 Secure and transparent public polls
 
-🖼️ SCREENSHOT SECTION
+<h1>🖼️ SCREENSHOT SECTION</h1> <br>
 <img width="1470" alt="Screenshot 2025-05-26 at 2 37 35 PM" src="https://github.com/user-attachments/assets/67baf02a-8e4b-42f0-a696-6189ac299e04" />
 <img width="1470" alt="Screenshot 2025-05-26 at 2 38 16 PM" src="https://github.com/user-attachments/assets/7014e25d-6c8b-49a3-8bf8-993fba9e381b" />
 
-📄 LICENSE
-MIT License © 2025 YourName
+<h1>📄 LICENSE</h1> <br>
+MIT License © 2025 Ashishh
 
